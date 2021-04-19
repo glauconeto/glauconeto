@@ -1,9 +1,13 @@
-<img src="images/developer-activity-bro.svg"  min-width="400px" max-width="400px" width="400px" align="right" alt="Programador">
+<img src="images/developer-activity-bro.svg" width="260px" align="right" alt="Programador">
 <!-- <a href="https://storyset.com/work">Ilustração por Freepik Storyset</a> -->
+
+<br/>
+<br/>
 
 # <a href="https://www.linkedin.com/in/glauconeto"> Olá, eu sou Glauco Neto</a>
 ## Sobre mim
-Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, busco me dedicar à carreira de desenvolvimento web com aplicações e criação de sites simples (estáticos). Futuramente desejo cursar análise e desenvolvimento de sistemas.
+Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, busco me dedicar à carreira de desenvolvimento web com aplicações e criação de sites simples (estáticos). 
+<br/> Futuramente desejo cursar análise e desenvolvimento de sistemas.
 <br/> Já aprendi diversas linguagens de programação como JavaScript, Python e PHP e já fiz alguns projetos com frameworks Python com Flask e Django.
 
 
