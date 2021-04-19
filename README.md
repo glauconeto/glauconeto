@@ -1,4 +1,5 @@
-<img src="images/programmer-cuate.svg"  min-width="400px" max-width="400px" width="400px" align="right" alt="Programador">
+<img src="images/developer-activity-bro.svg"  min-width="400px" max-width="400px" width="400px" align="right" alt="Programador">
+<!-- <a href="https://storyset.com/work">Ilustração por Freepik Storyset</a> -->
 
 # <a href="https://www.linkedin.com/in/glauconeto"> Olá, eu sou Glauco Neto</a>
 ## Sobre mim
