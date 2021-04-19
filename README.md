@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="images/programmer-cuate.svg"  min-width="400px" max-width="400px" width="400px" align="right" alt="Programador">
 
-<!--
-**glauconeto/glauconeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <a href="https://www.linkedin.com/in/glauconeto"> Olá, eu sou Glauco Neto</a>
+## Sobre mim
+Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, busco me dedicar à carreira de desenvolvimento web com aplicações e criação de sites simples (estáticos).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Back - End com Python, PHP, JS (em desenvolvimento)
+- Front - End com HTML, CSS e JS (em desenvolvimento)
+- desenvolvimento de aplicações web (em desenvolvimento)
+
+
+## Ferramentas
+
+- Visual Studio Code
+- Flask
+- Django
+
+
+##  Contato
+- <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
+- <a href="neto.glauquinho@gmail.com">E-mail</a>
+- <a href="https://www.instagram.com/glauco_neto19">Meu perfil do Instagram</a>
+</div>
+
+<!-- modelo inspirado na camilaf3rreira -->
