@@ -18,16 +18,21 @@ Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no In
 - desenvolvimento de aplicações web (em desenvolvimento)
 
 
-## Ferramentas
+## Ferramentas e linguagens favoritas
 
 - Visual Studio Code
+- Python
+- PHP
 - Flask
 - Django
 
+## Stats
+### Linguagens que mais uso
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauconeto)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
-- <a href="neto.glauquinho@gmail.com">E-mail</a>
+- <a href="mailto:neto.glauquinho@gmail.com">E-mail</a>
 - <a href="https://www.instagram.com/glauco_neto19">Meu perfil do Instagram</a>
 </div>
 
