@@ -27,7 +27,6 @@ Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no In
 - Django
 
 ## Stats
-### Linguagens que mais uso
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauconeto)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Contato
