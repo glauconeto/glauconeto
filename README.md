@@ -26,9 +26,6 @@ Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no In
 - Flask
 - Django
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauconeto)
-
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
 - <a href="mailto:neto.glauquinho@gmail.com">E-mail</a>
