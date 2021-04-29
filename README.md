@@ -29,7 +29,7 @@ Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no In
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
 - <a href="mailto:neto.glauquinho@gmail.com">E-mail</a>
-- <a href="https://www.instagram.com/glauco_neto19">Meu perfil do Instagram</a>
+- <a href="https://www.instagram.com/glauco_neto19">Instagram</a>
 </div>
 
 <!-- modelo inspirado na camilaf3rreira -->
