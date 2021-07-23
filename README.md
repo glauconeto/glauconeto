@@ -13,9 +13,11 @@ Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no In
 
 ## Habilidades
 
-- Back - End com Python, PHP, JS (em desenvolvimento)
-- Front - End com HTML, CSS e JS (em desenvolvimento)
-- desenvolvimento de aplicações web (em desenvolvimento)
+As minhas habilidades já foram colocadas em prática, mas ainda estão todas em desenvolvimento para melhoria como profissional.
+
+- Back - End com Python, PHP e JS 
+- Front - End com HTML, CSS e JS 
+- Banco de dados - SQLite, MySQL, PostgreSQL
 
 
 ## Ferramentas e linguagens favoritas
