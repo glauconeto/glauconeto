@@ -31,7 +31,7 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
 - <a href="mailto:neto.glauquinho@gmail.com">E-mail</a>
-- <a href="https://www.instagram.com/glauco_neto19">Instagram</a>
+- <a href="https://twitter.com/glauconeto64">Twitter</a>
 </div>
 
 <!-- modelo inspirado na camilaf3rreira -->
