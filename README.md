@@ -17,7 +17,7 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 
 - Back - End com Python, PHP e JS 
 - Front - End com HTML, CSS e JS 
-- Banco de dados - SQLite, MySQL, PostgreSQL
+- Banco de dados - MySQL
 
 
 ## Ferramentas e linguagens favoritas
