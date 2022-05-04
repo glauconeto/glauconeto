@@ -6,19 +6,19 @@
 
 # <a href="https://www.linkedin.com/in/glauconeto"> Olá, eu sou Glauco Neto</a>
 ## Sobre mim
-Sou Glauco Neto, tenho 17 anos e sou estudante de Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, busco me dedicar à carreira de desenvolvimento web com aplicações e criação de sites simples (estáticos). 
-<br/> Futuramente desejo cursar análise e desenvolvimento de sistemas.
-<br/> Já aprendi diversas linguagens de programação como JavaScript, Python e PHP e já fiz alguns projetos com frameworks Python com Flask e Django.
-
+Sou Glauco Neto, tenho 18 anos e sou Técnico em Informática pelo IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, busco me dedicar à carreira de desenvolvimento web com aplicações e criação de sites dinâmico. 
+<br/> Curso atualmente análise e desenvolvimento de sistemas na Faculdade de Tecnologia - Fatec Campinas.
+<br/> Já aprendi diversas linguagens de programação como JavaScript, Python e PHP e desenvolvi projetos práticos com os frameworks Python com Flask e Django.
 
 ## Habilidades
 
-As minhas habilidades já foram colocadas em prática, mas ainda estão todas em desenvolvimento para melhoria como profissional.
+As minhas habilidades já foram colocadas em prática, mas ainda estão todas em desenvolvimento para melhoria como profissional, assim como o aprendizado de novas habilidades e tecnologias.
 
-- Back - End com Python, PHP e JS 
-- Front - End com HTML, CSS e JS 
+- Back - End com Python, PHP e JS
+- Front - End com HTML, CSS e JS
 - Banco de dados - MySQL
-
+- Redes Linux
+- APIs e REST
 
 ## Ferramentas e linguagens favoritas
 
@@ -34,4 +34,4 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 - <a href="https://twitter.com/glauconeto64">Twitter</a>
 </div>
 
-<!-- modelo inspirado na camilaf3rreira -->
+<!-- modelo inspirado na https://github.com/camilaf3rreira -->
