@@ -1,4 +1,4 @@
-<img src="images/developer-activity-bro.svg" width="260px" align="right" alt="Programador">
+<img src="images/developer-activity-bro.svg" width="250px" align="right" alt="Programador">
 <!-- <a href="https://storyset.com/work">Ilustração por Freepik Storyset</a> -->
 
 <br/>
