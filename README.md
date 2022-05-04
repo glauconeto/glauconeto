@@ -1,4 +1,4 @@
-<img src="images/developer-activity-bro.svg" width="250px" align="right" alt="Programador">
+<img src="images/developer-activity-bro.svg" width="250px" align="right" alt="Programador usando um notebook em seu colo.">
 <!-- <a href="https://storyset.com/work">Ilustração por Freepik Storyset</a> -->
 
 <br/>
@@ -30,8 +30,8 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
-- <a href="mailto:neto.glauquinho@gmail.com">E-mail</a>
-- <a href="https://twitter.com/glauconeto64">Twitter</a>
+- <a href="mailto:glauco.neto@outlook.com">E-mail</a>
+- <a href="https://twitter.com/glauco_neto64">Twitter</a>
 </div>
 
 <!-- modelo inspirado na https://github.com/camilaf3rreira -->
