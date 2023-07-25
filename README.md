@@ -14,9 +14,9 @@ Sou Glauco Neto, tenho 18 anos e sou Técnico em Informática pelo IFSP - Instit
 
 As minhas habilidades já foram colocadas em prática, mas ainda estão todas em desenvolvimento para melhoria como profissional, assim como o aprendizado de novas habilidades e tecnologias.
 
-- Back - End com Python, PHP e JS
-- Front - End com HTML, CSS e JS
-- Banco de dados - MySQL
+- Back - End com Python, PHP e Java
+- Front - End com HTML, CSS e JS; Angular
+- Banco de dados - MySQL e Postgres
 - Redes Linux
 - APIs e REST
 
@@ -27,6 +27,7 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 - PHP
 - Flask
 - Django
+- Laravel
 
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
