@@ -18,7 +18,7 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 - Front - End com HTML, CSS e JS; Angular
 - Banco de dados - MySQL e Postgres
 - Redes Linux
-- APIs e REST
+- APIs REST
 
 ## Ferramentas e linguagens favoritas
 
