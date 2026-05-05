@@ -31,7 +31,7 @@ As minhas habilidades já foram colocadas em prática, mas ainda estão todas em
 
 ##  Contato
 - <a href="https://www.linkedin.com/in/glauconeto">Linkedin</a>
-- <a href="mailto:glauconeto@disroot.org">E-mail</a>
+- <a href="mailto:glauconeto@tutanota.com">E-mail</a>
 - <a href="https://mastodon.social/@glauco_neto64">Mastodon</a>
 </div>
 
