@@ -1,4 +1,4 @@
-<img src="images/developer-activity-bro.svg" width="250px" align="right" alt="Programador usando um notebook em seu colo.">
+<img src="developer-activity-bro.svg" width="250px" align="right" alt="Programador usando um notebook em seu colo.">
 <!-- <a href="https://storyset.com/work">Ilustração por Freepik Storyset</a> -->
 
 <br/>
