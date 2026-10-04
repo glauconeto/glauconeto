@@ -7,7 +7,7 @@
 # <a href="https://www.linkedin.com/in/glauconeto"> Olá, eu sou Glauco Neto</a>
 ## Sobre mim
 Sou Glauco Neto, formado em Análise e Desenvolvimento de Sistmeas - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Atualmente, busco me dedicar à carreira de desenvolvimento web com aplicações e criação de sites dinâmico. 
-<br/> Curso atualmente análise e desenvolvimento de sistemas na Faculdade de Tecnologia - Fatec Campinas.
+<br/> Formado em Análise e Desenvolvimento de Sistemas no Insttituto Federal de Campinas.
 <br/> Já aprendi diversas linguagens de programação como JavaScript, Python e PHP e desenvolvi projetos práticos com os frameworks Python com Flask e Django.
 
 ## Habilidades
@@ -15,7 +15,7 @@ Sou Glauco Neto, formado em Análise e Desenvolvimento de Sistmeas - Instituto F
 As minhas habilidades já foram colocadas em prática, mas ainda estão todas em desenvolvimento para melhoria como profissional, assim como o aprendizado de novas habilidades e tecnologias.
 
 - Back - End com Python, PHP e Java
-- Front - End com HTML, CSS e JS; Angular
+- Front - End com HTML, CSS e JS
 - Banco de dados - MySQL e Postgres
 - Redes Linux
 - APIs REST
